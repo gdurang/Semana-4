@@ -1,0 +1,37 @@
+---
+title: "Pendientes 4ta semana"
+author: "Guillermo Durán González"
+date: "2022-10-12"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+---
+title: "Actividad Pendiente"
+author: "Guillermo Durán González"
+date: "2022-10-04"
+output: pdf_document
+---
+
+
+## Generar la función validación de patente formtao LLLL-NN; placa.R
+
+1. Con validación de paramétro cadena alfanúmerica LLLL-NN.
+2. Cálculo de digito verificador.
+
+## Crear script de prueba "prueba_función"
+1. Mediante código verificar paquetes instalados y carga de bibliotecas.
+2. Carga de función mediante código.
+3. Aplicación de rm(list=ls())
+
+## Comparación de proceso de validación
+
+1. Basado en arreglos mediante for.
+2. Basado en dataframes.
+
+## Link de acceso a la grabación 
+
+La grabación esta disponible mediante el siguiente link:
+https://udla.zoom.us/rec/share/o81cbx71BRCYQ0RjmrEi1D9N6nS_en6YxwIyNLh21wllIxVGr8fleFwBLxrQC_P3.v-3EXy4OsYlcXoNZ
